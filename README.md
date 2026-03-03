@@ -1,8 +1,8 @@
 # Hybra Finance – Code4rena Audit Findings
-
+![Status: Valid](https://img.shields.io/badge/Status-Valid-brightgreen)
 > Code4rena contest: [link](https://code4rena.com/audits/2025-10-hybra-finance)  
 > Audit period: [Oct-7-2025] – [Oct-17-2025]  
-> Status: <span style="color:green">Valid</span>
+> Total Submissions: 1
 > Final Rank: 34
 
 ---
