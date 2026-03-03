@@ -2,6 +2,7 @@
 
 > Code4rena contest: [link](https://code4rena.com/audits/2025-10-hybra-finance)  
 > Audit period: [Oct-7-2025] – [Oct-17-2025]  
+> Status: <span style="color:green">Valid</span>
 > Final Rank: 34
 
 ---
