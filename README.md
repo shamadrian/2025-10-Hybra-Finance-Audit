@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Repository Overview
+## Repository Overview
 
 This repository contains my Code4rena audit deliverables for the **Hybra Finance** contest.
 
