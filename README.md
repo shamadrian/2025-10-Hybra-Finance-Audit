@@ -2,7 +2,7 @@
 ![Status: Valid](https://img.shields.io/badge/Status-Valid-brightgreen)
 > Code4rena contest: [link](https://code4rena.com/audits/2025-10-hybra-finance)  
 > Audit period: [Oct-7-2025] – [Oct-17-2025]  
-> Total Submissions: 1
+> Total Submissions: 1 Medium 
 > Final Rank: 34
 
 ---
